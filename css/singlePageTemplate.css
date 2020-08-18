@@ -89,6 +89,14 @@ ul li:hover a {
 	text-transform: uppercase;
 	letter-spacing: 1px;
 }
+.tagline_2 {
+	text-align: center;
+	color: #FFFFFF;
+	margin-top: 4px;
+	font-weight: lighter;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+}
 /* About Section */
 .text_column {
 	width: 29%;
